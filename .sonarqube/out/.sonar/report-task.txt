@@ -1,0 +1,7 @@
+organization=spacegame182
+projectKey=spacegame182
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.7980
+dashboardUrl=https://sonarcloud.io/dashboard?id=spacegame182
+ceTaskId=AXIU-uelLtVnmlrozLLh
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIU-uelLtVnmlrozLLh
